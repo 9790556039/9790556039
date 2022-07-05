@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @9790556039
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🌱 Currently Learning Full-stack Web Development
+🙂 I'm a Person with Self Confidence and I'm a Practical Minded Person
+🤍 I Love to Watch Movies, Listen to Music, Watch Movtivational Contents, Travel and to Develop
+⌛ Communication and Leadership are my attributes- 
 
-<!---
-9790556039/9790556039 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
